@@ -1,0 +1,21 @@
+.course-details-container {
+  display: flex;
+  box-shadow: 0px 4px 16px 0px;
+  border-radius: 10px;
+  width: 90%;
+  margin-top: 50px;
+}
+.detailed-image {
+  width: 40%;
+}
+.description-container {
+  display: flex;
+  flex-direction: column;
+}
+.name {
+  margin-left: 20px;
+}
+.description {
+  margin-left: 20px;
+  margin-right: 20px;
+}

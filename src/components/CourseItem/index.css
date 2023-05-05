@@ -1,0 +1,21 @@
+.list-item {
+  display: flex;
+  align-items: center;
+  width: 150px;
+  height: 200px;
+  justify-content: space-between;
+}
+.logo {
+  width: 70px;
+  height: 70px;
+}
+.name {
+  font-size: 24px;
+}
+.link-item {
+  text-decoration: none;
+  width: 150px;
+  height: 200px;
+  margin-right: 50px;
+  color: #1e293b;
+}
